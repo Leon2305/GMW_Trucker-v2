@@ -6,7 +6,7 @@
 * added Illegal Transport's
 
 ## Features
-* wath the Video :)
+* watch the Video :)
 
 ## Coming soon
 * Background for the UI
