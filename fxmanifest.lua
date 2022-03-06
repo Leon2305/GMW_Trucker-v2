@@ -1,0 +1,33 @@
+fx_version 'cerulean'
+games { 'gta5' };
+
+author ' [SADoJ] German. Warthog'
+description 'Trucker rework by Koma'
+version '2.0.4'
+
+client_scripts {
+    "src/RMenu.lua",
+    "src/menu/RageUI.lua",
+    "src/menu/Menu.lua",
+    "src/menu/MenuController.lua",
+    "src/components/*.lua",
+    "src/menu/elements/*.lua",
+    "src/menu/items/*.lua",
+    "src/menu/panels/*.lua",
+    "src/menu/windows/*.lua",
+
+}
+
+client_scripts {
+    'config.lua',
+    'client/*.lua',
+}
+
+server_scripts {
+    'config.lua', 
+    'server/*.lua',
+}
+
+dependencies {
+	'es_extended',
+}
