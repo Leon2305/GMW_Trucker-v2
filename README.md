@@ -4,3 +4,8 @@
 
 ### Version: 2.0.4 | Changelog
 * added Illegal Transport's
+
+### Coming soon
+* Background for the UI
+* locales
+* Boss Menu
