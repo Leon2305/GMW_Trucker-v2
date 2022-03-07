@@ -3,7 +3,7 @@ games { 'gta5' };
 
 author ' [SADoJ] German. Warthog'
 description 'Trucker rework by Koma'
-version '2.0.4'
+version '2.0.5'
 
 client_scripts {
     "src/RMenu.lua",
